@@ -1,0 +1,33 @@
+atividade.html
+
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<nav>
+	<a> Contato <a>
+	<a> Fotos <a>
+	<a> Sobre <a>
+</nav>
+
+<head>
+	<title> Luffy o próximo rei dos piratas</title>
+
+<body>
+    <h1>Luffy </h1>
+<main>
+	<p> Ele é um jovem pirata com o sonho de encotrar o "One Piece" e se tornar o Rei dos Piratas. Luffy possui um espirito aventureiro, determinado e otimista, além de um forte senso de justiça e lealdade com seus amigos.</p>
+</main>
+
+<article> coisas q o luffy gosta </article>
+<ol>
+	<li> Carne <li>
+	<li> Lutar <li>
+	<li> aventuras <li>
+	<li> bando dele <li> 
+</ol>
+
+<footer> Feito por Otavio </footer>
+
+
+
+

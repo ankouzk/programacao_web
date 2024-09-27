@@ -1,0 +1,12 @@
+desafio.css
+
+*{ margin: 10;
+    padding: 5;
+    box-sizing: border-box;
+}
+
+body{ 
+    background-color: lightyellow;
+    color: rgb(211, 155, 81);
+    margin: 40px;
+}
