@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <p id="numeros"></p>
+    <p id="soma"></p>
+    <p id="sub"></p>
+    <p id="mult"></p>
+    <p id="divi"></p>
+    <script>
+    let num1 = prompt("Digite um numero:");
+    let num2 =  prompt  ("Digite outro numero:");
+        num1 =  Number(num1);
+        num2 = Number(num2);
+        document.getElementById('numeros').innerHTML =(`seus números são ${num1} e ${num2} e as quatro operações basicas são :` )
+
+  document.getElementById('soma').innerHTML =(`a soma entre eles é: ${num1 + num2} : `)
+
+document.getElementById('sub').innerHTML =(`a subtração entre eles é: ${num1 - num2} `);
+
+document.getElementById('multi').innerHTML =('a multiplicação entre eles é:'  + num1 * num2);
+
+document.getElementById('divi').innerHTML =('a divisão entre eles é: ' + num1 / num2);
+
+
+
+
+    </script>
+
+</body>
+
+</html>
